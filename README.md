@@ -13,5 +13,5 @@ This project is a sales data analysis dashboard created using excel.
 - Dashboard design
 
 ## Dashboard Preview
-![Dashboard] (dashboard.png)
+![Dashboard](dashboard.png)
 
