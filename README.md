@@ -12,3 +12,6 @@ This project is a sales data analysis dashboard created using excel.
 - Pivote table creation
 - Dashboard design
 
+## Dashboard Preview
+![Dashboard] (dashboard.png)
+
